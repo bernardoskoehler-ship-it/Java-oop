@@ -19,3 +19,9 @@ To understand and apply object-oriented principles in real scenarios.
 
 ## 📌 Status
 In progress
+
+## ▶️ How to run
+
+1. Clone the repository
+2. Open in your IDE (IntelliJ, Eclipse, VS Code)
+3. Run the Main class

@@ -46,6 +46,6 @@ public static class Usuario {
     }
 }
 public static void main(String[] args) {
-    Usuario u = new Usuario("Bernardo", "1234567", "bernardoskoehler");
+    Usuario u = new Usuario("Bernardo", "1234567", "bernardoskoehler@gmail.com");
     u.mostrarConta();
 }

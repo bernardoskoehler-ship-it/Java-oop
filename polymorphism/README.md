@@ -12,9 +12,3 @@ Polymorphism allows methods to behave differently based on the object that is ca
 
 ## 🎯 Purpose
 To understand how different objects can share the same method structure but behave differently.
-
-## 🛠️ Technologies
-- Java
-
-## 📌 Status
-In progress

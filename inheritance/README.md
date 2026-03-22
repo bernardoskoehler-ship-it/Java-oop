@@ -13,9 +13,3 @@ Inheritance allows a class to inherit attributes and methods from another class,
 
 ## 🎯 Purpose
 To understand how classes can be extended and how inheritance improves code structure.
-
-## 🛠️ Technologies
-- Java
-
-## 📌 Status
-In progress
